@@ -9,4 +9,8 @@
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Jaiswal-Ishika/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/Jaiswal-Ishika/Leetcode/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
